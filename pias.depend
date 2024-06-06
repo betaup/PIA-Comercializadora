@@ -1,0 +1,726 @@
+# depslib dependency file v1.0
+1715747486 source:c:\users\danie\documents\regis\gpt\pias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"usuarios.h"
+
+1715747394 c:\users\danie\documents\regis\gpt\pias\usuarios.h
+
+1715748359 source:c:\users\danie\documents\regis\gpt\pias\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"usuarios.h"
+
+1715754346 source:c:\users\danie\documents\regis\pias\pias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"usuarios.h"
+
+1715755123 c:\users\danie\documents\regis\pias\pias\usuarios.h
+
+1715756760 source:c:\users\danie\documents\regis\pias\pias\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"usuarios.h"
+
+1715756028 source:c:\users\danie\documents\regis\pias\pias\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"usuarios.h"
+
+1716315111 source:c:\users\danie\downloads\pias\pias\pias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"usuarios.h"
+
+1716315332 c:\users\danie\downloads\pias\pias\pias\usuarios.h
+
+1716315112 source:c:\users\danie\downloads\pias\pias\pias\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"usuarios.h"
+
+1716315112 source:c:\users\danie\downloads\pias\pias\pias\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"usuarios.h"
+
+1716315292 source:c:\users\danie\downloads\pias\pias\pias\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"usuarios.h"
+
+1716315830 source:c:\users\danie\documents\regis\pias\pias\pias\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"clientes.h"
+
+1716315830 c:\users\danie\documents\regis\pias\pias\pias\usuarios.h
+
+1716315927 source:c:\users\danie\documents\regis\pias\pias\pias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"productos.h"
+	"usuarios.h"
+	"inventario.h"
+
+1716316038 source:c:\users\danie\documents\regis\pias\pias\pias\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"productos.h"
+	"inventario.h"
+
+1716315112 source:c:\users\danie\documents\regis\pias\pias\pias\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"usuarios.h"
+
+1716315830 c:\users\danie\documents\regis\pias\pias\pias\clientes.h
+
+1716316199 c:\users\danie\documents\regis\pias\pias\pias\productos.h
+
+1716315882 source:c:\users\danie\documents\regis\pias\pias\pias\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"inventario.h"
+	"productos.h"
+
+1716316199 c:\users\danie\documents\regis\pias\pias\pias\inventario.h
+
+1716318675 source:c:\users\brandon\desktop\pias\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"conexiones.h"
+
+1716315832 c:\users\brandon\desktop\pias\clientes.h
+
+1716319651 source:c:\users\brandon\desktop\pias\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"conexiones.h"
+
+1716316200 c:\users\brandon\desktop\pias\inventario.h
+
+1716316200 c:\users\brandon\desktop\pias\productos.h
+
+1716318675 source:c:\users\brandon\desktop\pias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"conexiones.h"
+
+1716315832 c:\users\brandon\desktop\pias\usuarios.h
+
+1716319651 source:c:\users\brandon\desktop\pias\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"conexiones.h"
+
+1716320122 source:c:\users\brandon\desktop\pias\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"conexiones.h"
+
+1716318879 c:\users\brandon\desktop\pias\conexiones.h
+
+1716339611 source:c:\users\brandon\desktop\pia 1.0\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"conexiones.h"
+
+1716343254 c:\users\brandon\desktop\pia 1.0\conexiones.h
+
+1716319651 source:c:\users\brandon\desktop\pia 1.0\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"conexiones.h"
+
+1716318675 source:c:\users\brandon\desktop\pia 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"conexiones.h"
+
+1716319651 source:c:\users\brandon\desktop\pia 1.0\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"conexiones.h"
+
+1716328339 source:c:\users\brandon\desktop\pia 1.0\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"conexiones.h"
+
+1716345686 source:c:\users\brandon\desktop\pia 1.0\venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"conexiones.h"
+
+1716362062 source:c:\users\danie\downloads\pia 2.0\pia 2.0\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"conexiones.h"
+
+1716362062 c:\users\danie\downloads\pia 2.0\pia 2.0\conexiones.h
+
+1716362062 source:c:\users\danie\downloads\pia 2.0\pia 2.0\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"conexiones.h"
+
+1716362062 source:c:\users\danie\downloads\pia 2.0\pia 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"conexiones.h"
+
+1716362062 source:c:\users\danie\downloads\pia 2.0\pia 2.0\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"conexiones.h"
+
+1716362062 source:c:\users\danie\downloads\pia 2.0\pia 2.0\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"conexiones.h"
+
+1716363628 source:c:\users\danie\downloads\pia 2.0\pia 2.0\venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"conexiones.h"
+
+1716394956 source:c:\users\brandon\desktop\pia 2.1\pia 2.1\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdbool.h>
+	"conexiones.h"
+
+1716392659 c:\users\brandon\desktop\pia 2.1\pia 2.1\conexiones.h
+
+1716398872 source:c:\users\brandon\desktop\pia 2.1\pia 2.1\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"conexiones.h"
+
+1716392517 source:c:\users\brandon\desktop\pia 2.1\pia 2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"conexiones.h"
+
+1716398468 source:c:\users\brandon\desktop\pia 2.1\pia 2.1\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"conexiones.h"
+
+1716397973 source:c:\users\brandon\desktop\pia 2.1\pia 2.1\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"conexiones.h"
+
+1716399249 source:c:\users\brandon\desktop\pia 2.1\pia 2.1\venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"conexiones.h"
+
+1716522486 source:c:\users\danie\downloads\pia 3.0\pia 3.0\pia 3.0\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdbool.h>
+	"conexiones.h"
+
+1716521077 c:\users\danie\downloads\pia 3.0\pia 3.0\pia 3.0\conexiones.h
+
+1716516804 source:c:\users\danie\downloads\pia 3.0\pia 3.0\pia 3.0\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"conexiones.h"
+
+1716516804 source:c:\users\danie\downloads\pia 3.0\pia 3.0\pia 3.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"conexiones.h"
+
+1716516804 source:c:\users\danie\downloads\pia 3.0\pia 3.0\pia 3.0\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"conexiones.h"
+
+1716525128 source:c:\users\danie\downloads\pia 3.0\pia 3.0\pia 3.0\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"conexiones.h"
+
+1716521199 source:c:\users\danie\downloads\pia 3.0\pia 3.0\pia 3.0\venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"conexiones.h"
+
+1716529816 source:c:\users\brandon\desktop\pia 3.1\pia 3.1\pia 3.0\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdbool.h>
+	"conexiones.h"
+
+1716528662 c:\users\brandon\desktop\pia 3.1\pia 3.1\pia 3.0\conexiones.h
+
+1716526180 source:c:\users\brandon\desktop\pia 3.1\pia 3.1\pia 3.0\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"conexiones.h"
+
+1716516806 source:c:\users\brandon\desktop\pia 3.1\pia 3.1\pia 3.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"conexiones.h"
+
+1716529391 source:c:\users\brandon\desktop\pia 3.1\pia 3.1\pia 3.0\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"conexiones.h"
+
+1716525130 source:c:\users\brandon\desktop\pia 3.1\pia 3.1\pia 3.0\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"conexiones.h"
+
+1716529540 source:c:\users\brandon\desktop\pia 3.1\pia 3.1\pia 3.0\venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"conexiones.h"
+
+1716538064 source:c:\users\danie\desktop\pia 3.1\pia 3.1\pia 3.1\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdbool.h>
+	"conexiones.h"
+
+1716537072 c:\users\danie\desktop\pia 3.1\pia 3.1\pia 3.1\conexiones.h
+
+1716537073 source:c:\users\danie\desktop\pia 3.1\pia 3.1\pia 3.1\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"conexiones.h"
+
+1716537073 source:c:\users\danie\desktop\pia 3.1\pia 3.1\pia 3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"conexiones.h"
+
+1716537073 source:c:\users\danie\desktop\pia 3.1\pia 3.1\pia 3.1\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"conexiones.h"
+
+1716537073 source:c:\users\danie\desktop\pia 3.1\pia 3.1\pia 3.1\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"conexiones.h"
+
+1716539046 source:c:\users\danie\desktop\pia 3.1\pia 3.1\pia 3.1\venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<pthread.h>
+	"conexiones.h"
+
+1716573799 source:c:\users\brandon\desktop\pia 3.1 (2)\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"conexiones.h"
+
+1716580554 c:\users\brandon\desktop\pia 3.1 (2)\conexiones.h
+
+1716537074 source:c:\users\brandon\desktop\pia 3.1 (2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"conexiones.h"
+
+1716537074 source:c:\users\brandon\desktop\pia 3.1 (2)\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"conexiones.h"
+
+1716537074 source:c:\users\brandon\desktop\pia 3.1 (2)\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"conexiones.h"
+
+1716587628 source:c:\users\brandon\desktop\pia 3.1 (2)\venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<pthread.h>
+	"conexiones.h"
+
+1716574614 source:c:\users\brandon\desktop\pia 3.1 (2)\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdbool.h>
+	"conexiones.h"
+
+1716594260 source:c:\users\danie\downloads\pia 3.2\pia 3.2\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdbool.h>
+	"conexiones.h"
+
+1716595874 c:\users\danie\downloads\pia 3.2\pia 3.2\conexiones.h
+
+1716594261 source:c:\users\danie\downloads\pia 3.2\pia 3.2\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"conexiones.h"
+
+1716594261 source:c:\users\danie\downloads\pia 3.2\pia 3.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"conexiones.h"
+
+1716594261 source:c:\users\danie\downloads\pia 3.2\pia 3.2\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"conexiones.h"
+
+1716595874 source:c:\users\danie\downloads\pia 3.2\pia 3.2\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	<pthread.h>
+	"conexiones.h"
+
+1716595805 source:c:\users\danie\downloads\pia 3.2\pia 3.2\venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<pthread.h>
+	"conexiones.h"
+
+1716594262 source:c:\users\brandon\desktop\pia 3.3\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdbool.h>
+	"conexiones.h"
+
+1716597116 c:\users\brandon\desktop\pia 3.3\conexiones.h
+
+1716594262 source:c:\users\brandon\desktop\pia 3.3\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"conexiones.h"
+
+1716594262 source:c:\users\brandon\desktop\pia 3.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"conexiones.h"
+
+1716594262 source:c:\users\brandon\desktop\pia 3.3\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"conexiones.h"
+
+1716597591 source:c:\users\brandon\desktop\pia 3.3\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	<pthread.h>
+	"conexiones.h"
+
+1716599034 source:c:\users\brandon\desktop\pia 3.3\venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<pthread.h>
+	"conexiones.h"
+
+1716668123 source:c:\users\brandon\desktop\pia 3.3 - copia\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdbool.h>
+	"conexiones.h"
+
+1716597116 c:\users\brandon\desktop\pia 3.3 - copia\conexiones.h
+
+1716594262 source:c:\users\brandon\desktop\pia 3.3 - copia\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"conexiones.h"
+
+1716594262 source:c:\users\brandon\desktop\pia 3.3 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"conexiones.h"
+
+1716668124 source:c:\users\brandon\desktop\pia 3.3 - copia\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"conexiones.h"
+
+1716597591 source:c:\users\brandon\desktop\pia 3.3 - copia\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	<pthread.h>
+	"conexiones.h"
+
+1716599338 source:c:\users\brandon\desktop\pia 3.3 - copia\venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<pthread.h>
+	"conexiones.h"
+
+1716668123 source:c:\users\brandon\desktop\comercializadora fuentes\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdbool.h>
+	"conexiones.h"
+
+1716597116 c:\users\brandon\desktop\comercializadora fuentes\conexiones.h
+
+1716668517 source:c:\users\brandon\desktop\comercializadora fuentes\inventario.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"conexiones.h"
+
+1716594262 source:c:\users\brandon\desktop\comercializadora fuentes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"conexiones.h"
+
+1716680661 source:c:\users\brandon\desktop\comercializadora fuentes\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"conexiones.h"
+
+1716746454 source:c:\users\brandon\desktop\comercializadora fuentes\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	<pthread.h>
+	"conexiones.h"
+
+1716675598 source:c:\users\brandon\desktop\comercializadora fuentes\venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<pthread.h>
+	"conexiones.h"
+
